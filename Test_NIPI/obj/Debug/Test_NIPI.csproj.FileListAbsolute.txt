@@ -1,0 +1,11 @@
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\bin\Debug\Test_NIPI.exe.config
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\bin\Debug\Test_NIPI.exe
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\bin\Debug\Test_NIPI.pdb
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\obj\Debug\Test_NIPI.csproj.AssemblyReference.cache
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\obj\Debug\Test_NIPI.Form1.resources
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\obj\Debug\Test_NIPI.Properties.Resources.resources
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\obj\Debug\Test_NIPI.csproj.GenerateResource.cache
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\obj\Debug\Test_NIPI.csproj.CoreCompileInputs.cache
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\obj\Debug\Test_NIPI.exe
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\obj\Debug\Test_NIPI.pdb
+G:\Progi\C#_Projects\Test_NIPI\Test_NIPI\obj\Debug\Test_NIPI.Form2.resources
